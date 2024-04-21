@@ -11,7 +11,7 @@
 
 
 <!-- Project Card in README.md -->
-<h1 align="center">Projects</h1>
+<h1 align="center" href="https://github.com/JosephArmas/side-quest/tree/main">Projects</h1>
 <table>
   <tr>  
     <td align="center">
