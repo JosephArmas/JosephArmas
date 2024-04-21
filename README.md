@@ -19,6 +19,8 @@
         <img src="https://github.com/JosephArmas/side-quest/blob/main/assets/utification-events.gif">
       </a>
       <span>UTIFICATION</span>
+        <br>
+        <span><i>August 2022 - May 2023</i></span>
       <br>
       <span>TEAM LEAD, SCRUMMASTER, DEVELOPER</span>
       <br>
@@ -39,6 +41,8 @@
       </a>
       <span>KARMAS</span>
       <br>
+        <span><i>August 2023 - August 2023</i></span>
+        <br>
       <span>DEVELOPER</span>
       <br>
       <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
@@ -51,10 +55,12 @@
     </td>
     <td align="center">
       <a href="https://github.com/JosephArmas/side-quest/tree/main/stormbreaker">
-        <img src="https://github.com/JosephArmas/side-quest/blob/main/assets/karmas-demo.gif">
+        <img src="https://github.com/JosephArmas/side-quest/blob/main/assets/hammer-drop.gif">
       </a>
       <span>STORMBREAKER</span>
       <br>
+        <span><i>June 2023 - July 2023</i></span>
+        <br>
       <span>DEVELOPER</span>
       <br>
       <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
@@ -69,6 +75,7 @@
       </a>
       <span>MADWRIST</span>
       <br>
+        <span><i>July 2023 - July 2023</i></span>
       <span>DEVELOPER</span>
       <br>
       <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
@@ -82,5 +89,4 @@
       <img src="https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white">
     </td>
   </tr>
-
 </table>
