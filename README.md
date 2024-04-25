@@ -7,7 +7,7 @@
 
 :mortar_board: Bachelors of Science in **Computer Science** & Minor in **Cybersecurity** - **California State University, Long Beach** *2023*
 
-:mortar_board: Associate of Arts in **Computer Science** - **Cerritos College** *2021*
+:mortar_board: Associate in Science in **Computer Science** - **Cerritos College** *2021*
 
 
 <!-- Project Card in README.md -->
