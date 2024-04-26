@@ -111,26 +111,20 @@
             </p>
         </a>  
     </td>
-    <td align="center">
-        <a href="https://github.com/JosephArmas/side-quest/tree/main/designs">
-                <img src="https://github.com/JosephArmas/side-quest/blob/main/designs/utification/Figma%20Designs/front-end/anon/anon%20view.png">
-        </a>
-        <a href="https://github.com/JosephArmas/side-quest/tree/main/designs">
-            <p>
-                    DESGIN
-            </p>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/JosephArmas/side-quest/tree/main/documentation">
-            <img src="https://github.com/JosephArmas/side-quest/blob/main/assets/aws_preview.png">
-        </a>
-        <a href="https://github.com/JosephArmas/side-quest/tree/main/documentation">
-            <p>
-                    DOCUMENTATION
-            </p>
-        </a>
-    </td>
+        <td align="center">
+            <a href="https://github.com/JosephArmas/side-quest/tree/main/keyhooks">
+                <img src="https://github.com/JosephArmas/side-quest/blob/main/keyhooks/phase1/key_hook_updated_erd.png">
+            </a>
+            <a href="https://github.com/JosephArmas/side-quest/tree/main/keyhooks">
+                <p>
+                    DATABASE DESIGN
+                    <br>
+                    <i>October 2022 - December 2022</i>
+                    <br>
+                    TEAM LEAD, DEVELOPER
+                </p>
+            </a>
+        </td>
   </tr>
     <tr>
         <td align="center">
@@ -144,16 +138,22 @@
             </a>
         </td>
         <td align="center">
-            <a href="https://github.com/JosephArmas/side-quest/tree/main/keyhooks">
-                <img src="https://github.com/JosephArmas/side-quest/blob/main/keyhooks/phase1/key_hook_updated_erd.png">
+            <a href="https://github.com/JosephArmas/side-quest/tree/main/designs">
+                    <img src="https://github.com/JosephArmas/side-quest/blob/main/designs/utification/Figma%20Designs/front-end/anon/anon%20view.png">
             </a>
-            <a href="https://github.com/JosephArmas/side-quest/tree/main/keyhooks">
+            <a href="https://github.com/JosephArmas/side-quest/tree/main/designs">
                 <p>
-                    DATABASE DESIGN
-                    <br>
-                    <i>October 2022 - December 2022</i>
-                    <br>
-                    TEAM LEAD, DEVELOPER
+                        DESGIN
+                </p>
+            </a>
+        </td>
+        <td align="center">
+            <a href="https://github.com/JosephArmas/side-quest/tree/main/documentation">
+                <img src="https://github.com/JosephArmas/side-quest/blob/main/assets/aws_preview.png">
+            </a>
+            <a href="https://github.com/JosephArmas/side-quest/tree/main/documentation">
+                <p>
+                        DOCUMENTATION
                 </p>
             </a>
         </td>
