@@ -150,6 +150,10 @@
             <a href="https://github.com/JosephArmas/side-quest/tree/main/keyhooks">
                 <p>
                     DATABASE DESIGN
+                    <br>
+                    <i>October 2022 - December 2022</i>
+                    <br>
+                    TEAM LEAD, DEVELOPER
                 </p>
             </a>
         </td>
