@@ -123,7 +123,7 @@
     </td>
     <td align="center">
         <a href="https://github.com/JosephArmas/side-quest/tree/main/documentation">
-            <img src="https://github.com/JosephArmas/side-quest/blob/main/documentation/utification/aws/AWS%20Setup.pdf">
+            <img src="https://github.com/JosephArmas/side-quest/blob/main/assets/aws_preview.png">
         </a>
         <a href="https://github.com/JosephArmas/side-quest/tree/main/documentation">
             <p>
