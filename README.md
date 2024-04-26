@@ -111,5 +111,47 @@
             </p>
         </a>  
     </td>
+    <td>
+        <a href="https://github.com/JosephArmas/side-quest/tree/main/designs">
+                <img src="https://github.com/JosephArmas/side-quest/blob/main/designs/utification/Figma%20Designs/front-end/anon/anon%20view.png">
+        </a>
+        <a href="https://github.com/JosephArmas/side-quest/tree/main/designs">
+            <p>
+                    DESGIN
+            </p>
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/JosephArmas/side-quest/tree/main/documentation">
+            <img src="https://github.com/JosephArmas/side-quest/blob/main/documentation/utification/aws/AWS%20Setup.pdf">
+        </a>
+        <a href="https://github.com/JosephArmas/side-quest/tree/main/documentation">
+            <p>
+                    DOCUMENTATION
+            </p>
+        </a>
+    </td>
   </tr>
+    <tr>
+        <td>
+            <a href="https://github.com/JosephArmas/side-quest/tree/main/script%20kiddie">
+                <img src="https://github.com/JosephArmas/side-quest/blob/main/assets/script-preview.png">
+            </a>
+            <a href="https://github.com/JosephArmas/side-quest/tree/main/script%20kiddie">
+                <p>
+                    SCRIPT KIDDIE
+                </p>
+            </a>
+        </td>
+        <td>
+            <a href="https://github.com/JosephArmas/side-quest/tree/main/keyhooks">
+                <img src="https://github.com/JosephArmas/side-quest/blob/main/keyhooks/phase1/key_hook_updated_erd.png">
+            </a>
+            <a href="https://github.com/JosephArmas/side-quest/tree/main/keyhooks">
+                <p>
+                    DATABASE DESIGN
+                </p>
+            </a>
+        </td>
+    </tr>
 </table>
